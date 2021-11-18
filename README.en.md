@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-# learnGit
-
-#### Description
-learnGit
-=======
 # gittest
 
 #### Description
 git学习测试
->>>>>>> 5905be3cc831e4d845696e56100f38217010fa42
 
 #### Software Architecture
 Software architecture description
